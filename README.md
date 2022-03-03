@@ -1,5 +1,6 @@
 # X7000-Reference
 Wavetek 7000 inspired voltage reference on the cheap.
+![Refpic1](/img/a.jpg) ![Refpicé](/img/b.jpg) ![Refpic3](/img/c.jpg)
 
 ## As any FOSS thing operation and specs not guaranteed
 ## BOM list

@@ -28,4 +28,6 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | C1206C104K5RAC7867 | Kemet             |      4     |      0,12       |
 | C1206X103K5RECAUT  | Kemet             |      1     |      0,44       |
 | 1206YC223MAT2A     | Kyocera           |      1     |      0,26       |
-| **TOTAL**          |-------------------|------------|      101,64     |
+| SPZT3904T1G        | Onsemi            |      1     |      0,64       |
+| **TOTAL**          |-------------------|------------|      102,28     |
+

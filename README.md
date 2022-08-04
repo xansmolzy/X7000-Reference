@@ -8,13 +8,15 @@ Wavetek 7000 inspired voltage reference on the cheap.
 -  **(G)** denotes this is a generic part and nearly any alternative will do.
 -  Socket and current setting resistor not included for the moment.
 
+**⚠️For V0.1 and V0.2 TCur 124Ohm and 31.4Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
+If you are not so brave and like to stick to tested use 124 and 31.4Ohm respectively
 | Part name          | Manufacturer      | Quantity   | Price per (eur) | Notes                                                                   |
 |:-------------------|:-----------------:|:----------:|:---------------:|------------------------------------------------------------------------:|
 | NOMCT16031003AT1   | Vishay            |     1      |      3,64       |                                                                         |
 | NOMCT16032001AT1   | Vishay            |     1      |      3,42       |                                                                         |
 | NOMCT16031001AT1   | Vishay            |     1      |      3,29       |                                                                         |
 |--------------------|-------------------|------------|-----------------|                                                                         |
-| Y0785100R000T9L    | Vishay            |     1      |      21,53      | Can also be 120 for less drift with more noise, but TComp needs changed |
+| Y0785100R000T9L    | Vishay            |     1      |      21,53      | TCur, can be 120 for less drift with more noise, TComp needs changed    |
 | PTF5621R000BYEK    | Vishay            |     1      |      5,11       | (or better more satble resistor) TComp                                  |
 | TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm for 100Ohms TCur                                |
 |--------------------|-------------------|------------|-----------------|                                                                         |

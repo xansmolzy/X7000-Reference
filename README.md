@@ -8,8 +8,11 @@ Wavetek 7000 inspired voltage reference on the cheap.
 -  **(G)** denotes this is a generic part and nearly any alternative will do.
 -  Socket and current setting resistor not included for the moment.
 
-**⚠️For V0.1 and V0.2 TCur 124Ohm and 31.4Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
-If you are not so brave and like to stick to tested use 124 and 31.4Ohm respectively
+**⚠️For V0.1 and V0.2 TCur 124Ohm and 31.2Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
+
+If you like to stick to tested use 124 and 31.2Ohm respectively, when V1 gets assembled these resistors will be used
+
+
 | Part name          | Manufacturer      | Quantity   | Price per (eur) | Notes                                                                   |
 |:-------------------|:-----------------:|:----------:|:---------------:|------------------------------------------------------------------------:|
 | NOMCT16031003AT1   | Vishay            |     1      |      3,64       |                                                                         |

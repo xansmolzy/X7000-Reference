@@ -16,8 +16,7 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | NOMCT16031001AT1   | Vishay            |     1      |      3,29       |
 | PTF6533R200BXBF    | Vishay            |     1*     |      4,47       |
 | PTF56500R00BYEB    | Vishay            |     1*     |      1,51       |
-| OPA189ID           | Texas Instruments |  2(or 4)   |      2,75       |
-| ADA4523-1BRZ       | Analog Devices    |  2(or 4)   |      2,65       |
+| ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |
 | LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       |
 | 1N4148UR-1         | Microchip         |     2(G)   |      0,81       |
 | CRT1206-DY-1004ELF | Bourns            |     1(G)   |      0,35       |

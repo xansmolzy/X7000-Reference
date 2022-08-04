@@ -10,7 +10,7 @@ Wavetek 7000 inspired voltage reference on the cheap.
 
 **⚠️For V0.1 and V0.2 TCur 124Ohm and 31.2Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
 
-If you like to stick to tested use 124 and 31.2Ohm respectively, when V1 gets assembled these resistors will be used
+If you like to stick to tested use 124 and 31.2Ohm respectively, when V1 gets assembled 100 and 18.2Ohm resistors will be used and data will be provided.
 
 
 | Part name          | Manufacturer      | Quantity   | Price per (eur) | Notes                                                                   |

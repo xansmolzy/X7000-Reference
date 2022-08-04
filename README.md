@@ -18,10 +18,8 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | PTF5621R000BYEK    | Vishay            |     1      |      5,11       | (or better more satble resistor) TComp
 | TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm
 |--------------------|-------------------|------------|-----------------|
-| PTF6533R200BXBF    | Vishay            |     1*     |      4,47       |
-| PTF56500R00BYEB    | Vishay            |     1*     |      1,51       |
 | ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |
-| LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       |
+| LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       | Or LTZ1000ACH#PBF
 | 1N4148UR-1         | Microchip         |     2(G)   |      0,81       |
 | CRT1206-DY-1004ELF | Bourns            |     1(G)   |      0,35       |
 | CRT1206-BY-1002EST | Bourns            |     1(G)   |      0,35       |

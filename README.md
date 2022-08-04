@@ -13,6 +13,11 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | NOMCT16031003AT1   | Vishay            |     1      |      3,64       |
 | NOMCT16032001AT1   | Vishay            |     1      |      3,42       |
 | NOMCT16031001AT1   | Vishay            |     1      |      3,29       |
+|--------------------|-------------------|------------|-----------------|
+| Y0785100R000T9L    | Vishay            |     1      |      21,53      | Can also be 120 for less drift with more noise, but TComp needs changed
+| PTF5621R000BYEK    | Vishay            |     1      |      5,11       | (or better more satble resistor) TComp
+| TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm
+|--------------------|-------------------|------------|-----------------|
 | PTF6533R200BXBF    | Vishay            |     1*     |      4,47       |
 | PTF56500R00BYEB    | Vishay            |     1*     |      1,51       |
 | ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |
@@ -28,5 +33,5 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | C1206X103K5RECAUT  | Kemet             |      1     |      0,44       |
 | 1206YC223MAT2A     | Kyocera           |      1     |      0,26       |
 | SPZT3904T1G        | Onsemi            |      1     |      0,64       |
-| **TOTAL**          |-------------------|------------|      102,28     |
+| **TOTAL**          |-------------------|------------|      1--,28     |
 

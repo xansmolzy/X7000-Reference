@@ -19,7 +19,7 @@ Wavetek 7000 inspired voltage reference on the cheap.
 | TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm
 |--------------------|-------------------|------------|-----------------|
 | ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |
-| LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       | Or LTZ1000ACH#PBF
+| LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       | Or LTZ1000ACH#PBF or ADR (untested)
 | 1N4148UR-1         | Microchip         |     2(G)   |      0,81       |
 | CRT1206-DY-1004ELF | Bourns            |     1(G)   |      0,35       |
 | CRT1206-BY-1002EST | Bourns            |     1(G)   |      0,35       |

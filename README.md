@@ -4,7 +4,6 @@ Wavetek 7000 inspired voltage reference on the cheap.
 
 ## As any FOSS thing operation and specs not guaranteed
 ## BOM list
-- The **(or 4)** denounces that the recommended op-amps can be used interchangeably, though not tested in that configuration.
 -  The * denounces that these parts were used in development and there is probably a better alternative.
 -  **(G)** denotes this is a generic part and nearly any alternative will do.
 -  Socket and current setting resistor not included for the moment.

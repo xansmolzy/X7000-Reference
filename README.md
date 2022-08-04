@@ -16,7 +16,7 @@ Wavetek 7000 inspired voltage reference on the cheap.
 |--------------------|-------------------|------------|-----------------|                                                                         |
 | Y0785100R000T9L    | Vishay            |     1      |      21,53      | Can also be 120 for less drift with more noise, but TComp needs changed |
 | PTF5621R000BYEK    | Vishay            |     1      |      5,11       | (or better more satble resistor) TComp                                  |
-| TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm                                                 |
+| TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm for 100Ohms                                     |
 |--------------------|-------------------|------------|-----------------|                                                                         |
 | ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |                                                                         |
 | LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       | Or LTZ1000ACH#PBF or ADR (untested)                                     |

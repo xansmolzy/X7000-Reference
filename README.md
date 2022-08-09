@@ -6,22 +6,20 @@ Wavetek 7000 inspired voltage reference on the cheap.
 ## BOM list
 -  The * denounces that these parts were used in development and there is probably a better alternative.
 -  **(G)** denotes this is a generic part and nearly any alternative will do.
--  Socket and current setting resistor not included for the moment.
 
-**⚠️For V0.1 and V0.2 TCur 124Ohm and 31.2Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
+**⚠️For V0.1 and V0.2 RCur 124Ohm and 31.2Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
 
-If you like to stick to tested use 124 and 31.2Ohm respectively, when V1 gets assembled 100 and 18.2Ohm resistors will be used and data will be provided.
+If you like to stick to tested use 124 and 31.2Ohm respectively, when V0.3 gets assembled 100 and 18.2Ohm resistors will be used and data will be provided.
 
 
 | Part name          | Manufacturer      | Quantity   | Price per (eur) | Notes                                                                   |
 |:-------------------|:-----------------:|:----------:|:---------------:|------------------------------------------------------------------------:|
 | NOMCT16031003AT1   | Vishay            |     1      |      3,64       |                                                                         |
-| NOMCT16032001AT1   | Vishay            |     1      |      3,42       |                                                                         |
-| NOMCT16031001AT1   | Vishay            |     1      |      3,29       |                                                                         |
+| NOMCT16032001AT1   | Vishay            |     2      |      3,42       |                                                                         |
 |--------------------|-------------------|------------|-----------------|                                                                         |
-| Y0785100R000T9L    | Vishay            |     1      |      21,53      | TCur, can be 120 for less drift with more noise, TComp needs changed    |
-| PTF5621R000BYEK    | Vishay            |     1      |      5,11       | (or better more satble resistor) TComp                                  |
-| TNPW0402137RBEED   | Vishay            |     1      |      0,67       | TComp trim to 18,18 Ohm for 100Ohms TCur                                |
+| Y0785100R000T9L    | Vishay            |     1      |      21,53      | RCur, can be 120 for less drift with more noise, RComp needs changed    |
+| PTF5621R000BYEK    | Vishay            |     1*     |      5,11       | (or better more satble resistor) RComp                                  |
+| TNPW0402137RBEED   | Vishay            |     1*     |      0,67       | RComp trim to 18,18 Ohm for 100Ohms RCur                                |
 |--------------------|-------------------|------------|-----------------|                                                                         |
 | ADA4523-1BRZ       | Analog Devices    |     4      |      2,65       |                                                                         |
 | LTZ1000CH#PBF      | Analog Devices    |     1      |      68,9       | Or LTZ1000ACH#PBF or ADR (untested)                                     |

@@ -8,7 +8,7 @@ Wavetek 7000 inspired voltage reference on the cheap.
 -  **(G)** denotes this is a generic part and nearly any alternative will do.
 
 **⚠️For V0.1 and V0.2 RCur 124Ohm and 31.2Ohm were used, based on [work](https://xdevs.com/article/b7000/) 100Ohm and 18.2Ohm are encouraged but not tested⚠️**
-**⚠️LTZ-A has oscillations in the order of 10uV⚠️**
+**⚠️LTZ-A has oscillations in the order of 100uV⚠️**
 
 If you like to stick to tested use 124 and 31.2Ohm respectively, when V0.3 gets assembled 100 and 18.2Ohm resistors will be used and data will be provided.
 
